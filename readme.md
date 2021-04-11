@@ -18,4 +18,4 @@ Installation
 
 Documentation
 ---
-You can find documentation over [here](https://aquzif.github.io/discord-framework/)
+You can find documentation over [here](https://aquzif.github.io/discord-framework/) (creating docs in progress)

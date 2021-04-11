@@ -8,7 +8,7 @@ const bot = new Discord.Client();
 const logger = new Logger();
 
 const initBot = async () => {
-    logger.logInfo("-=-=--=-=-=-=-=-=-( STARTING BOT )-=-=--=-=-=-=-=-=-")
+    logger.logInfo("-=-=--=-=-=-=-=-=-( STARTING BOT )-=-=--=-=-=-=-=-=-");
     await bot.login(TOKEN);
 }
 

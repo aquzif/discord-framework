@@ -8,9 +8,6 @@ Installation
 --
 
 1. clone this repo
-2. 
-```bash  
-npm install 
- ```
+2. run npm install / yarn 
 3. create your first command or event and enjoy :D
 

@@ -12,7 +12,6 @@ const initBot = async () => {
     await bot.login(TOKEN);
 }
 
-
 initBot().then(async () => {
 
     await CommandsLoader.load(bot);

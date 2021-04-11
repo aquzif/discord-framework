@@ -1,0 +1,12 @@
+{
+  "TOKEN": "ODI3ODExMzEyOTg4ODQ4MTU5.YGgdXQ.-UFwHe1P6hG7vKg0pEUL9rBsQQM",
+  "APP_ID": "827811312988848159",
+  "logs": {
+    "dir": "__DIR__/logs",
+    "pattern": "[%%date%%] %%type%% -> %%message%%"
+  },
+  "commands": {
+    "removeUnusedGlobalCommands": true,
+    "removeUnusedGuildCommands": true
+  }
+}

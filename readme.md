@@ -1,3 +1,8 @@
+WARNING
+===
+
+This is unfinished build, use on your own responsibility
+
 Discord Framework
 =
 
@@ -11,3 +16,6 @@ Installation
 2. run npm install / yarn 
 3. create your first command or event and enjoy :D
 
+Documentation
+---
+You can find documentation over [here](https://aquzif.github.io/discord-framework/)

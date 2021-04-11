@@ -13,7 +13,7 @@ Installation
 --
 
 1. clone this repo
-2. run npm install / yarn 
+2. run ```npm install``` or ```yarn```
 3. create your first command or event and enjoy :D
 
 Documentation

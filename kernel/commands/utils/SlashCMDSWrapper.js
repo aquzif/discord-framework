@@ -55,10 +55,9 @@ class SlashCMDSWrapper {
         return response.data;
     }
 
-    async updateCallback(interactionTOKEN,message){
-        return await axios.patch(`https://discord.com/api/v8/webhooks/${APP_ID}/${interactionTOKEN}/messages/@original`,{
-            "content": message
-        },{
+    async updateCallback(interactionTOKEN,answer){
+        return await axios.patch(`https://discord.com/api/v8/webhooks/${APP_ID}/${interactionTOKEN}/messages/@original`,answer,
+            {
             headers: {
                 'Content-Type': 'application/json',
                 'Authorization': AUTH

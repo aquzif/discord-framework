@@ -1,6 +1,6 @@
 {
-  "TOKEN": "ODI3ODExMzEyOTg4ODQ4MTU5.YGgdXQ.-UFwHe1P6hG7vKg0pEUL9rBsQQM",
-  "APP_ID": "827811312988848159",
+  "TOKEN": "Nzc0OTQyNDI2NjE5NzA3Mzk0.X6fHYA.jdQ6RTHOOtO_4QfbezkxYn2CljI",
+  "APP_ID": "774942426619707394",
   "logs": {
     "dir": "__DIR__/logs",
     "pattern": "[%%date%%] %%type%% -> %%message%%"

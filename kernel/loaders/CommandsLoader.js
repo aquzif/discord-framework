@@ -1,17 +1,17 @@
-const SlashCMDSWrapper = require("../CommandCreator/utils/SlashCMDSWrapper");
+const SlashCMDSWrapper = require("../commands/utils/SlashCMDSWrapper");
 const fs = require('fs');
 const path = require('path');
 const Logger = require("../systems/Logger");
 const { removeUnusedGlobalCommands,removeUnusedGuildCommands } = require('../../config.json').commands;
 
-const CMD_FILES_PATH = "__DIR__/commands";
-
 class CommandsLoader {
+
+    static CMD_FILES_PATH = "__DIR__/commands";
 
     static load = async (bot)=> {
         let wrapper = new SlashCMDSWrapper();
         let logger = new Logger();
-        let configsList = CommandsLoader.getAllConfigs(CMD_FILES_PATH);
+        let configsList = CommandsLoader.getAllConfigs(CommandsLoader.CMD_FILES_PATH);
         let loaded = 0;
 
         let usedGlobally = [];

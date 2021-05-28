@@ -1,4 +1,4 @@
-const CommandOptionTypes = {
+const SlashOptionTypes = {
 
     SUB_COMMAND: 1,
     SUB_COMMAND_GROUP: 2,
@@ -11,4 +11,4 @@ const CommandOptionTypes = {
 
 }
 
-module.exports = CommandOptionTypes;
+module.exports = SlashOptionTypes;

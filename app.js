@@ -3,6 +3,7 @@ const Logger = require("./kernel/systems/Logger");
 const { TOKEN } = require('./config.json');
 const CommandsLoader = require('./kernel/loaders/CommandsLoader');
 const EventsLoader = require("./kernel/loaders/EventsLoader");
+const CommandsListener = require("./kernel/listeners/CommandsListener");
 
 const bot = new Discord.Client();
 const logger = new Logger();
@@ -16,6 +17,8 @@ initBot().then(async () => {
 
     await CommandsLoader.load(bot);
     await EventsLoader.load(bot);
+
+    await CommandsListener.start(bot);
 
     logger.logInfo("Bot initialized Successfully");
 

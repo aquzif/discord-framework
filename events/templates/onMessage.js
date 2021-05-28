@@ -1,13 +1,13 @@
-const Logger = require("../kernel/systems/Logger");
+const Logger = require("../../kernel/systems/Logger");
 
 class OnMessage {
 
     static evtName = "message";
     static disabled = false;
 
-    static handle = (bot,...evts) => {
+    static handle = (bot,...events) => {
 
-        let [evt] = evts;
+        let [evt] = events;
 
         let userName = evt.author.username;
         let chanName = evt.channel.name;

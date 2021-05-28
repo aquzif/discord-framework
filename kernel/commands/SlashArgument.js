@@ -1,4 +1,4 @@
-const Options = require("../enums/CommandOptionsTypes");
+const Options = require("./SlashOptionsTypes");
 
 class SlashArgument {
 

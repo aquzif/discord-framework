@@ -1,0 +1,255 @@
+[19:15:02] INFO -> -=-=--=-=-=-=-=-=-( STARTING BOT )-=-=--=-=-=-=-=-=-
+[19:15:03] INFO -> command test loaded successfully
+[19:15:03] INFO -> Loaded 1 command(s)
+[19:15:03] INFO -> Loaded 0 event(s)
+[19:15:03] INFO -> Bot initialized Successfully
+[19:15:46] INFO -> -=-=--=-=-=-=-=-=-( STARTING BOT )-=-=--=-=-=-=-=-=-
+[19:16:23] INFO -> -=-=--=-=-=-=-=-=-( STARTING BOT )-=-=--=-=-=-=-=-=-
+[19:16:24] INFO -> command test loaded successfully
+[19:16:24] INFO -> Loaded 1 command(s)
+[19:16:24] INFO -> Loaded 0 event(s)
+[19:16:24] INFO -> Bot initialized Successfully
+[19:16:28] INFO -> User < aquzif /> used command test on server Salon Gier
+[19:24:16] INFO -> -=-=--=-=-=-=-=-=-( STARTING BOT )-=-=--=-=-=-=-=-=-
+[19:24:17] INFO -> command test loaded successfully
+[19:24:17] INFO -> Loaded 1 command(s)
+[19:24:18] INFO -> Loaded 0 event(s)
+[19:24:18] INFO -> Bot initialized Successfully
+[19:24:21] INFO -> User < aquzif /> used command test on server Salon Gier
+[19:31:36] INFO -> -=-=--=-=-=-=-=-=-( STARTING BOT )-=-=--=-=-=-=-=-=-
+[19:31:37] INFO -> command test loaded successfully
+[19:31:37] INFO -> Loaded 1 command(s)
+[19:31:37] INFO -> Loaded 0 event(s)
+[19:31:37] INFO -> Bot initialized Successfully
+[19:31:42] INFO -> User < aquzif /> used command test on server Salon Gier
+[19:31:58] INFO -> -=-=--=-=-=-=-=-=-( STARTING BOT )-=-=--=-=-=-=-=-=-
+[19:31:59] INFO -> command test loaded successfully
+[19:31:59] INFO -> Loaded 1 command(s)
+[19:31:59] INFO -> Loaded 0 event(s)
+[19:31:59] INFO -> Bot initialized Successfully
+[19:32:01] INFO -> User < aquzif /> used command test on server Salon Gier
+[19:32:22] INFO -> -=-=--=-=-=-=-=-=-( STARTING BOT )-=-=--=-=-=-=-=-=-
+[19:32:23] INFO -> command test loaded successfully
+[19:32:23] INFO -> Loaded 1 command(s)
+[19:32:23] INFO -> Loaded 0 event(s)
+[19:32:23] INFO -> Bot initialized Successfully
+[19:32:34] INFO -> User < aquzif /> used command test on server Salon Gier
+[19:32:39] INFO -> User < aquzif /> used command test on server Salon Gier
+[19:34:10] INFO -> -=-=--=-=-=-=-=-=-( STARTING BOT )-=-=--=-=-=-=-=-=-
+[19:34:11] INFO -> command test loaded successfully
+[19:34:11] INFO -> Loaded 1 command(s)
+[19:34:12] INFO -> Loaded 0 event(s)
+[19:34:12] INFO -> Bot initialized Successfully
+[19:34:13] INFO -> User < aquzif /> used command test on server Salon Gier
+[19:34:31] INFO -> -=-=--=-=-=-=-=-=-( STARTING BOT )-=-=--=-=-=-=-=-=-
+[19:34:32] INFO -> command test loaded successfully
+[19:34:32] INFO -> Loaded 1 command(s)
+[19:34:32] INFO -> Loaded 0 event(s)
+[19:34:32] INFO -> Bot initialized Successfully
+[19:34:36] INFO -> User < aquzif /> used command test on server Salon Gier
+[19:37:38] INFO -> -=-=--=-=-=-=-=-=-( STARTING BOT )-=-=--=-=-=-=-=-=-
+[19:37:39] INFO -> command test loaded successfully
+[19:37:39] INFO -> Loaded 1 command(s)
+[19:37:40] INFO -> Loaded 0 event(s)
+[19:37:40] INFO -> Bot initialized Successfully
+[19:37:41] INFO -> User < aquzif /> used command test on server Salon Gier
+[19:37:57] INFO -> -=-=--=-=-=-=-=-=-( STARTING BOT )-=-=--=-=-=-=-=-=-
+[19:37:58] INFO -> command test loaded successfully
+[19:37:58] INFO -> Loaded 1 command(s)
+[19:37:58] INFO -> Loaded 0 event(s)
+[19:37:58] INFO -> Bot initialized Successfully
+[19:38:00] INFO -> User < aquzif /> used command test on server Salon Gier
+[19:38:02] INFO -> User < aquzif /> used command test on server Salon Gier
+[19:38:11] INFO -> User < aquzif /> used command test on server Salon Gier
+[19:38:14] INFO -> -=-=--=-=-=-=-=-=-( STARTING BOT )-=-=--=-=-=-=-=-=-
+[19:38:15] INFO -> command test loaded successfully
+[19:38:15] INFO -> Loaded 1 command(s)
+[19:38:15] INFO -> Loaded 0 event(s)
+[19:38:15] INFO -> Bot initialized Successfully
+[19:38:20] INFO -> User < aquzif /> used command test on server Salon Gier
+[19:38:25] INFO -> User < aquzif /> used command test on server Salon Gier
+[19:38:40] INFO -> -=-=--=-=-=-=-=-=-( STARTING BOT )-=-=--=-=-=-=-=-=-
+[19:38:41] INFO -> command test loaded successfully
+[19:38:41] INFO -> Loaded 1 command(s)
+[19:38:42] INFO -> Loaded 0 event(s)
+[19:38:42] INFO -> Bot initialized Successfully
+[19:38:44] INFO -> User < aquzif /> used command test on server Salon Gier
+[19:39:26] INFO -> -=-=--=-=-=-=-=-=-( STARTING BOT )-=-=--=-=-=-=-=-=-
+[19:39:27] INFO -> command test loaded successfully
+[19:39:27] INFO -> Loaded 1 command(s)
+[19:39:27] INFO -> Loaded 0 event(s)
+[19:39:27] INFO -> Bot initialized Successfully
+[19:39:29] INFO -> User < aquzif /> used command test on server Salon Gier
+[19:40:02] INFO -> -=-=--=-=-=-=-=-=-( STARTING BOT )-=-=--=-=-=-=-=-=-
+[19:40:03] INFO -> command test loaded successfully
+[19:40:03] INFO -> Loaded 1 command(s)
+[19:40:04] INFO -> Loaded 0 event(s)
+[19:40:04] INFO -> Bot initialized Successfully
+[19:40:05] INFO -> User < aquzif /> used command test on server Salon Gier
+[19:41:41] INFO -> User < aquzif /> used command test on server Salon Gier
+[19:41:45] INFO -> -=-=--=-=-=-=-=-=-( STARTING BOT )-=-=--=-=-=-=-=-=-
+[19:41:46] INFO -> command test loaded successfully
+[19:41:46] INFO -> Loaded 1 command(s)
+[19:41:47] INFO -> Loaded 0 event(s)
+[19:41:47] INFO -> Bot initialized Successfully
+[19:41:53] INFO -> User < aquzif /> used command test on server Salon Gier
+[19:44:00] INFO -> -=-=--=-=-=-=-=-=-( STARTING BOT )-=-=--=-=-=-=-=-=-
+[19:44:01] INFO -> command test loaded successfully
+[19:44:01] INFO -> Loaded 1 command(s)
+[19:44:02] INFO -> Loaded 0 event(s)
+[19:44:02] INFO -> Bot initialized Successfully
+[19:44:06] INFO -> User < aquzif /> used command test on server Salon Gier
+[19:44:17] INFO -> -=-=--=-=-=-=-=-=-( STARTING BOT )-=-=--=-=-=-=-=-=-
+[19:44:18] INFO -> command test loaded successfully
+[19:44:18] INFO -> Loaded 1 command(s)
+[19:44:18] INFO -> Loaded 0 event(s)
+[19:44:18] INFO -> Bot initialized Successfully
+[19:44:20] INFO -> User < aquzif /> used command test on server Salon Gier
+[19:47:49] INFO -> -=-=--=-=-=-=-=-=-( STARTING BOT )-=-=--=-=-=-=-=-=-
+[19:47:51] INFO -> command test loaded successfully
+[19:47:51] INFO -> Loaded 1 command(s)
+[19:47:51] INFO -> Loaded 0 event(s)
+[19:47:51] INFO -> Bot initialized Successfully
+[19:47:57] INFO -> User < aquzif /> used command test on server Salon Gier
+[19:48:09] INFO -> -=-=--=-=-=-=-=-=-( STARTING BOT )-=-=--=-=-=-=-=-=-
+[19:48:10] INFO -> command test loaded successfully
+[19:48:10] INFO -> Loaded 1 command(s)
+[19:48:11] INFO -> Loaded 0 event(s)
+[19:48:11] INFO -> Bot initialized Successfully
+[19:48:12] INFO -> User < aquzif /> used command test on server Salon Gier
+[19:48:15] INFO -> User < aquzif /> used command test on server Salon Gier
+[19:49:39] INFO -> -=-=--=-=-=-=-=-=-( STARTING BOT )-=-=--=-=-=-=-=-=-
+[19:49:41] INFO -> command test loaded successfully
+[19:49:41] INFO -> Loaded 1 command(s)
+[19:49:41] INFO -> Loaded 0 event(s)
+[19:49:41] INFO -> Bot initialized Successfully
+[19:50:01] INFO -> User < aquzif /> used command test on server Salon Gier
+[19:50:04] INFO -> User < aquzif /> used command test on server Salon Gier
+[19:51:01] INFO -> -=-=--=-=-=-=-=-=-( STARTING BOT )-=-=--=-=-=-=-=-=-
+[19:51:02] INFO -> command test loaded successfully
+[19:51:02] INFO -> Loaded 1 command(s)
+[19:51:02] INFO -> Loaded 0 event(s)
+[19:51:02] INFO -> Bot initialized Successfully
+[19:51:06] INFO -> User < aquzif /> used command test on server Salon Gier
+[19:51:14] INFO -> -=-=--=-=-=-=-=-=-( STARTING BOT )-=-=--=-=-=-=-=-=-
+[19:51:16] INFO -> command test loaded successfully
+[19:51:16] INFO -> Loaded 1 command(s)
+[19:51:16] INFO -> Loaded 0 event(s)
+[19:51:16] INFO -> Bot initialized Successfully
+[19:51:20] INFO -> User < aquzif /> used command test on server Salon Gier
+[19:52:38] INFO -> -=-=--=-=-=-=-=-=-( STARTING BOT )-=-=--=-=-=-=-=-=-
+[19:52:39] INFO -> command test loaded successfully
+[19:52:39] INFO -> Loaded 1 command(s)
+[19:52:40] INFO -> Loaded 0 event(s)
+[19:52:40] INFO -> Bot initialized Successfully
+[19:52:41] INFO -> User < aquzif /> used command test on server Salon Gier
+[19:54:37] INFO -> -=-=--=-=-=-=-=-=-( STARTING BOT )-=-=--=-=-=-=-=-=-
+[19:54:38] INFO -> command test loaded successfully
+[19:54:38] INFO -> Loaded 1 command(s)
+[19:54:38] INFO -> Loaded 0 event(s)
+[19:54:38] INFO -> Bot initialized Successfully
+[19:54:44] INFO -> User < aquzif /> used command test on server Salon Gier
+[20:03:14] INFO -> -=-=--=-=-=-=-=-=-( STARTING BOT )-=-=--=-=-=-=-=-=-
+[20:03:24] INFO -> -=-=--=-=-=-=-=-=-( STARTING BOT )-=-=--=-=-=-=-=-=-
+[20:03:32] INFO -> -=-=--=-=-=-=-=-=-( STARTING BOT )-=-=--=-=-=-=-=-=-
+[20:03:33] INFO -> command test loaded successfully
+[20:03:33] INFO -> Loaded 1 command(s)
+[20:03:33] INFO -> Loaded 0 event(s)
+[20:03:33] INFO -> Bot initialized Successfully
+[20:03:41] INFO -> User < aquzif /> used command test on server Salon Gier
+[20:04:19] INFO -> -=-=--=-=-=-=-=-=-( STARTING BOT )-=-=--=-=-=-=-=-=-
+[20:04:21] INFO -> command test loaded successfully
+[20:04:21] INFO -> Loaded 1 command(s)
+[20:04:21] INFO -> Loaded 0 event(s)
+[20:04:21] INFO -> Bot initialized Successfully
+[20:04:23] INFO -> User < aquzif /> used command test on server Salon Gier
+[20:04:50] INFO -> -=-=--=-=-=-=-=-=-( STARTING BOT )-=-=--=-=-=-=-=-=-
+[20:04:52] INFO -> command test loaded successfully
+[20:04:52] INFO -> Loaded 1 command(s)
+[20:04:52] INFO -> Loaded 0 event(s)
+[20:04:52] INFO -> Bot initialized Successfully
+[20:04:56] INFO -> User < aquzif /> used command test on server Salon Gier
+[20:05:50] INFO -> -=-=--=-=-=-=-=-=-( STARTING BOT )-=-=--=-=-=-=-=-=-
+[20:05:51] INFO -> command test loaded successfully
+[20:05:51] INFO -> Loaded 1 command(s)
+[20:05:51] INFO -> Loaded 0 event(s)
+[20:05:51] INFO -> Bot initialized Successfully
+[20:05:53] INFO -> User < aquzif /> used command test on server Salon Gier
+[20:06:14] INFO -> -=-=--=-=-=-=-=-=-( STARTING BOT )-=-=--=-=-=-=-=-=-
+[20:06:15] INFO -> command test loaded successfully
+[20:06:15] INFO -> Loaded 1 command(s)
+[20:06:16] INFO -> Loaded 0 event(s)
+[20:06:16] INFO -> Bot initialized Successfully
+[20:06:19] INFO -> User < aquzif /> used command test on server Salon Gier
+[20:08:27] INFO -> -=-=--=-=-=-=-=-=-( STARTING BOT )-=-=--=-=-=-=-=-=-
+[20:08:29] INFO -> command test loaded successfully
+[20:08:29] INFO -> Loaded 1 command(s)
+[20:08:29] INFO -> Loaded 0 event(s)
+[20:08:29] INFO -> Bot initialized Successfully
+[20:08:35] INFO -> User < aquzif /> used command test on server Salon Gier
+[20:09:28] INFO -> -=-=--=-=-=-=-=-=-( STARTING BOT )-=-=--=-=-=-=-=-=-
+[20:09:29] INFO -> command test loaded successfully
+[20:09:29] INFO -> Loaded 1 command(s)
+[20:09:30] INFO -> Loaded 0 event(s)
+[20:09:30] INFO -> Bot initialized Successfully
+[20:09:33] INFO -> User < aquzif /> used command test on server Salon Gier
+[20:10:00] INFO -> -=-=--=-=-=-=-=-=-( STARTING BOT )-=-=--=-=-=-=-=-=-
+[20:10:01] INFO -> command test loaded successfully
+[20:10:01] INFO -> Loaded 1 command(s)
+[20:10:02] INFO -> Loaded 0 event(s)
+[20:10:02] INFO -> Bot initialized Successfully
+[20:10:04] INFO -> User < aquzif /> used command test on server Salon Gier
+[20:10:09] INFO -> User < aquzif /> used command test on server Salon Gier
+[20:10:23] INFO -> -=-=--=-=-=-=-=-=-( STARTING BOT )-=-=--=-=-=-=-=-=-
+[20:10:25] INFO -> command test loaded successfully
+[20:10:25] INFO -> Loaded 1 command(s)
+[20:10:25] INFO -> Loaded 0 event(s)
+[20:10:25] INFO -> Bot initialized Successfully
+[20:12:32] INFO -> -=-=--=-=-=-=-=-=-( STARTING BOT )-=-=--=-=-=-=-=-=-
+[20:12:33] INFO -> command test loaded successfully
+[20:12:33] INFO -> Loaded 1 command(s)
+[20:12:33] INFO -> Loaded 0 event(s)
+[20:12:33] INFO -> Bot initialized Successfully
+[20:12:35] INFO -> User < aquzif /> used command test on server Salon Gier
+[20:18:23] INFO -> -=-=--=-=-=-=-=-=-( STARTING BOT )-=-=--=-=-=-=-=-=-
+[20:18:24] INFO -> command test loaded successfully
+[20:18:24] INFO -> Loaded 1 command(s)
+[20:18:24] INFO -> Loaded 0 event(s)
+[20:18:24] INFO -> Bot initialized Successfully
+[20:18:26] INFO -> User < aquzif /> used command test on server Salon Gier
+[20:18:50] INFO -> -=-=--=-=-=-=-=-=-( STARTING BOT )-=-=--=-=-=-=-=-=-
+[20:18:51] INFO -> command test loaded successfully
+[20:18:51] INFO -> Loaded 1 command(s)
+[20:18:52] INFO -> Loaded 0 event(s)
+[20:18:52] INFO -> Bot initialized Successfully
+[20:18:54] INFO -> User < aquzif /> used command test on server Salon Gier
+[20:21:01] INFO -> -=-=--=-=-=-=-=-=-( STARTING BOT )-=-=--=-=-=-=-=-=-
+[20:21:02] INFO -> command test loaded successfully
+[20:21:02] INFO -> Loaded 1 command(s)
+[20:21:03] INFO -> Loaded 0 event(s)
+[20:21:03] INFO -> Bot initialized Successfully
+[20:21:06] INFO -> User < aquzif /> used command test on server Salon Gier
+[20:23:26] INFO -> -=-=--=-=-=-=-=-=-( STARTING BOT )-=-=--=-=-=-=-=-=-
+[20:23:27] INFO -> command test loaded successfully
+[20:23:27] INFO -> Loaded 1 command(s)
+[20:23:27] INFO -> Loaded 0 event(s)
+[20:23:27] INFO -> Bot initialized Successfully
+[20:23:29] INFO -> User < aquzif /> used command test on server Salon Gier
+[20:23:42] INFO -> -=-=--=-=-=-=-=-=-( STARTING BOT )-=-=--=-=-=-=-=-=-
+[20:23:43] INFO -> command test loaded successfully
+[20:23:43] INFO -> Loaded 1 command(s)
+[20:23:44] INFO -> Loaded 0 event(s)
+[20:23:44] INFO -> Bot initialized Successfully
+[20:23:46] INFO -> User < aquzif /> used command test on server Salon Gier
+[20:24:33] INFO -> -=-=--=-=-=-=-=-=-( STARTING BOT )-=-=--=-=-=-=-=-=-
+[20:24:34] INFO -> command test loaded successfully
+[20:24:34] INFO -> Loaded 1 command(s)
+[20:24:35] INFO -> Loaded 0 event(s)
+[20:24:35] INFO -> Bot initialized Successfully
+[20:24:36] INFO -> User < aquzif /> used command test on server Salon Gier
+[20:25:50] INFO -> -=-=--=-=-=-=-=-=-( STARTING BOT )-=-=--=-=-=-=-=-=-
+[20:25:51] INFO -> command test loaded successfully
+[20:25:51] INFO -> Loaded 1 command(s)
+[20:25:51] INFO -> Loaded 0 event(s)
+[20:25:51] INFO -> Bot initialized Successfully
+[20:25:54] INFO -> User < aquzif /> used command test on server Salon Gier
